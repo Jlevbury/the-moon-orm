@@ -1,12 +1,13 @@
 # Module 13 - ORM challenge
 
 "I have ridden the mighty moon ORM"
+![Untitled_ Jun 20, 2023 1_51 PM](https://github.com/Jlevbury/the-moon-orm/assets/125767916/0685fd79-ddeb-40b3-980b-270fd6e6f2e6)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+To build the back end for an e-commerce site. Utilzing a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 ## Table of Contents
 - [Module 13 - ORM challenge](#module-13---orm-challenge)
@@ -24,6 +25,7 @@ n/a
 
 ## Usage
 queries are performed through Insomnia , watch the following video for a demo of functionality.
+https://drive.google.com/file/d/1O97pnGoT3cy1Jwj84SnEj5LqsZuJ8oNA/view
 
 ## License
 
